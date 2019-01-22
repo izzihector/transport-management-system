@@ -33,6 +33,11 @@ Translation Status
 [![Transifex Status](https://www.transifex.com/projects/p/Jarsa-transport-management-system-10-0/chart/image_png)](https://www.transifex.com/projects/p/Jarsa-transport-management-system-9-0)
 
 ----
+Installation Requirements
+==========================
+
+pip install soapy
+pip install num2words
 
 Credits
 -------

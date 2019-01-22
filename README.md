@@ -36,8 +36,8 @@ Translation Status
 Installation Requirements
 ==========================
 
-pip install soapy
-pip install num2words
+- pip install soapy
+- pip install num2words
 
 Credits
 -------
